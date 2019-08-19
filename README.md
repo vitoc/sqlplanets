@@ -1,4 +1,4 @@
-#SQL Planets
+# SQL Planets
 
 This is a web applpication that allows users to explroe planetary statistics. 
 Built on-top of the authentication and React-bootstrapping mechanism from 
