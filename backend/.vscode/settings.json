@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/dc89d0d8-b24a-4590-9256-44e4e1b75820/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/node-jwt",
+    "appService.deploySubpath": ""
+}
